@@ -41,3 +41,8 @@ int main()
     cout << countwalks(graph, u, v, k);
     return 0;
 }
+
+
+Output -
+
+2
