@@ -104,6 +104,7 @@ int main()
     findInOutDegree(adjlist, n);
 }
   
+OUTPUT -
 
 Vertex    In    Out
 
