@@ -72,3 +72,8 @@ int main() {
    else
    cout << "There is no Euler Circuit.";
 }
+
+
+Output -
+
+Euler Path Found.
